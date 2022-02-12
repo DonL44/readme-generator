@@ -15,8 +15,8 @@
 
   ## Usage 
   Use inquirer from your command line to answer questions about your project.
-  <img src="utils/README-GENERATOR (1).gif"><br>
-  Or view link here - [Screencastify](https://drive.google.com/file/d/1L59uBnHWqkOiv5k9UkQEpBJuVX4CRidP/view)
+  <img src="develop/images/Professional README.webm"><br>
+  Or view link here - [Screencastify](https://watch.screencastify.com/v/84PZ6TcbaIM2BRABL5c8)
 
   ## License 
   This project is license under MIT
