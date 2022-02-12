@@ -15,7 +15,7 @@
 
   ## Usage 
   Use inquirer from your command line to answer questions about your project.
-  <img src="develop/images/Professional README.webm"><br>
+  <img src="Develop/images/prm-screenshot.png"><br>
   Or view link here - [Screencastify](https://watch.screencastify.com/v/84PZ6TcbaIM2BRABL5c8)
 
   ## License 
